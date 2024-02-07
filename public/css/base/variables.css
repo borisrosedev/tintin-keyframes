@@ -1,0 +1,11 @@
+:root {
+    --font-fam: 'Poppins', sans-serif;
+    --primary-color: rgb(0, 149, 80);
+    --secondary-color: #666;
+    --third-color: #ccc;
+    --forth-color: #faebd7;
+    --invalid-color: rgb(245, 113, 113);
+    --valid-color: rgb(69, 201, 69);
+    --slow-time:4s;
+ 
+}
